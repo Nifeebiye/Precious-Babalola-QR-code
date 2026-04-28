@@ -30,7 +30,7 @@ Through this project, I strengthened my understanding of structuring web pages w
 ### Links
 
 - Solution URL: [https://github.com/Nifeebiye/Precious-Babalola-QR-code.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://qr-code-component-nif.netlify.app/]
 
 ## My process
 I started by analyzing the design and breaking it down into simple sections: the background, the card container, and the content within the card (QR image and text). This helped me understand the structure before writing any code.
